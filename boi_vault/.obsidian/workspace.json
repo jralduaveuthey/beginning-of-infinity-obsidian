@@ -4,15 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e252d0228c803fdf",
+        "id": "b4355db5adab15fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0703f3c1cea1c4da",
+            "id": "d02e488b647bd107",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapView",
+              "state": {
+                "file": "BOI.md"
+              }
+            }
+          },
+          {
+            "id": "d8f8721243b7c843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45468c6403112b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BOI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BOI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BOI.md"
+              }
             }
           }
         ]
@@ -138,6 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0703f3c1cea1c4da",
-  "lastOpenFiles": []
+  "active": "d02e488b647bd107",
+  "lastOpenFiles": [
+    "MindMap template.md",
+    "BOI.md"
+  ]
 }
