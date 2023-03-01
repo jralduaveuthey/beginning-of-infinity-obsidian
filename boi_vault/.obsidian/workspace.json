@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New page here.md",
+                "file": "Jaime/BOI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New page here.md",
+                "file": "Jaime/BOI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New page here.md",
+                "file": "Jaime/BOI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New page here.md"
+                "file": "Jaime/BOI.md"
               }
             }
           }
@@ -148,7 +148,15 @@
   },
   "active": "45468c6403112b0d",
   "lastOpenFiles": [
-    "BOI.md",
+    "New page here.md",
+    "Jaime/knowledge.md",
+    "Jaime/BOI.md",
+    "Vatsal/BOI.md",
+    "Common notes.md",
+    "Manohar/BOI.md",
+    "Manohar",
+    "Vatsal",
+    "Jaime",
     "MindMap template.md"
   ]
 }
