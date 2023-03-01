@@ -16,6 +16,8 @@ mindmap-plugin: basic
 
 ## Vatsal
 - Chapter 1
+	- This is my point [[New page here]]
+	- 
 - Chapter 2
 - Chapter 3
 - Chapter 4
